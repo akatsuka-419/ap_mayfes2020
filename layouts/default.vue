@@ -1,43 +1,39 @@
 <template>
   <v-app dark>
-
-    <link href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
-
     <v-app-bar
       :clipped-left="clipped"
       fixed
       app
       class="black"
     >
-      <img 
-        src="../static/logo2020-dark-toka.png" 
-        width="40" 
-        height="40" 
+      <img
+        src="@/assets/img/logo/logo2020-dark-toka.png"
+        width="40"
+        height="40"
         @click="$vuetify.goTo(0)"
       >
       <v-spacer/>
-      <v-toolbar-title 
-        @click="$vuetify.goTo(0)" 
-        v-text="title" 
+      <v-toolbar-title
+        @click="$vuetify.goTo(0)"
+        v-text="title"
         class="font-weight-medium"
       />
       <v-spacer/>
-      <v-btn icon href="https://twitter.com/apmayfes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+      <v-btn icon href="https://twitter.com/apmayfes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" rel="noopener">
         <v-icon>fab fa-twitter</v-icon>
       </v-btn>
     </v-app-bar>
-    
+
     <v-content>
 
       <v-img
-       class="hidden-xs-only"
-       height="620px"
-      :src="require('../static/chirashi-yokonaga4.png')"
+        class="hidden-xs-only"
+        height="620px"
+        :src="require('@/assets/img/chirashi/chirashi-yokonaga4.png')"
       >
-        <v-row 
-          align="end" 
-          class="lightbox pa-2 fill-height" 
+        <v-row
+          align="end"
+          class="lightbox pa-2 fill-height"
           justify="center"
         >
           <v-col cols="12" lg="11" md="11">
@@ -48,7 +44,7 @@
               <v-card-text class="text-center text--primary body-1">
                 詳しくはこちら　
                 <span
-                style="text-decoration: underline" 
+                style="text-decoration: underline"
                 @click="$vuetify.goTo('#covid-19')"
                 >
                 COVID-19に関する対応について
@@ -70,7 +66,7 @@
               <v-tabs-items v-model="tab">
                 <v-tab-item
                   v-for="item in items"
-                  :key="item"
+                  :key="item.title"
                 >
                   <v-card flat>
                     <v-card-text class="text--primary">
@@ -86,13 +82,13 @@
         </v-row>
       </v-img>
 
-      <v-img 
+      <v-img
        class="hidden-sm-and-up"
-      :src="require('../static/chirashi_sns.png')"
+       :src="require('@/assets/img/chirashi/chirashi_sns.png')"
       >
-        <v-row 
-          align="end" 
-          class="lightbox pa-2 fill-height" 
+        <v-row
+          align="end"
+          class="lightbox pa-2 fill-height"
           justify="center"
         >
           <v-col cols="12" lg="11" md="11">
@@ -102,7 +98,7 @@
               </v-card-title>
               <v-card-text class="text-center text--primary body-1">
                 <span
-                style="text-decoration: underline" 
+                style="text-decoration: underline"
                 @click="$vuetify.goTo('#covid-19')"
                 >
                 COVID-19に関する対応について
@@ -110,8 +106,8 @@
               </v-card-text>
               <v-expansion-panels accordion>
                 <v-expansion-panel
-                  v-for="(item,i) in items"
-                  :key="i"
+                  v-for="(item, i) in items"
+                  :key="`expansion-panel-${i}`"
                 >
                   <v-expansion-panel-header>
                     {{ item.title }}
@@ -141,7 +137,7 @@
 
 <style>
 *{
-  font-family: 
+  font-family:
     "Helvetica Neue",
     Arial,
     "Hiragino Kaku Gothic ProN",
@@ -190,5 +186,3 @@ export default {
   }
 }
 </script>
-
-
