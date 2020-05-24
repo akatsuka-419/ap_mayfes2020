@@ -9,7 +9,7 @@
         >
           <div
             v-for="(item,i) in news"
-            :key="i"
+            :key="`news-${i}`"
           >
             <span class="caption font-weight-light">{{ item.date }}</span><br>
             {{ item.text }}
@@ -30,7 +30,7 @@
       <v-row>
         <template v-for="(item, i) in items_1">
           <v-col
-            :key="i"
+            :key="`card-${i}`"
             cols="12"
             sm="6"
             lg="4"
@@ -79,13 +79,13 @@
       <v-row justify="center">
         <template v-for="(item, i) in items_3">
           <v-col
-            :key="i"
+            :key="`link-${i}`"
             cols="12"
             sm="6"
             md="4"
             align="center"
           >
-            <a v-bind:href="item.url">
+            <a v-bind:href="item.url" target="_blank" rel="noopener">
               <img class="ma-3" :src="item.img">
             </a>
           </v-col>

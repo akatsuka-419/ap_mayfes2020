@@ -19,7 +19,7 @@
         class="font-weight-medium"
       />
       <v-spacer/>
-      <v-btn icon href="https://twitter.com/apmayfes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+      <v-btn icon href="https://twitter.com/apmayfes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" rel="noopener">
         <v-icon>fab fa-twitter</v-icon>
       </v-btn>
     </v-app-bar>
@@ -66,7 +66,7 @@
               <v-tabs-items v-model="tab">
                 <v-tab-item
                   v-for="item in items"
-                  :key="item"
+                  :key="item.title"
                 >
                   <v-card flat>
                     <v-card-text class="text--primary">
@@ -106,8 +106,8 @@
               </v-card-text>
               <v-expansion-panels accordion>
                 <v-expansion-panel
-                  v-for="(item,i) in items"
-                  :key="i"
+                  v-for="(item, i) in items"
+                  :key="`expansion-panel-${i}`"
                 >
                   <v-expansion-panel-header>
                     {{ item.title }}
