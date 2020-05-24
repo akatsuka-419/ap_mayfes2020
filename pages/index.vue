@@ -1,10 +1,10 @@
 <template>
   <v-content class="py-0">
-    <v-container class="py-0"> 
+    <v-container class="py-0">
 
       <h2>新着情報</h2>
         <v-card
-          class="overflow-y-auto my-6 px-4 py-2" 
+          class="overflow-y-auto my-6 px-4 py-2"
           height="200"
         >
           <div
@@ -51,16 +51,16 @@
             </v-hover>
           </v-col>
         </template>
-      </v-row>    
+      </v-row>
       <h3 class="mt-4">企画班</h3>
       <p class="ma-4 headline">Coming soon…</p>
-      
-      
+
+
 
       <h2 class="mt-6">アクセス</h2>
       <v-row>
         <v-col cols="12" lg="8">
-          <v-img :src="require('../static/campasmap-1.jpg')"></v-img>
+          <v-img :src="require('@/assets/img/map/campasmap-1.jpg')"></v-img>
         </v-col>
         <v-col cols="12" lg="4">
           <v-card class="px-4 py-1" height="100%">
@@ -92,7 +92,7 @@
         </template>
       </v-row>
 
-    </v-container> 
+    </v-container>
   </v-content>
 </template>
 
@@ -143,47 +143,47 @@ img:hover {
       items_1: [
         {
           title: '脳科学班',
-          img: require('../static/noukagaku.jpg'),
-          icon: require('../static/logo-brain-touka.png')
+          img: require('@/assets/img/kikaku/noukagaku.jpg'),
+          icon: require('@/assets/img/kikaku/logo-brain-touka.png')
         },
         {
           title: 'コンピューターの頭脳班',
-          img: require('../static/cpu.JPG'),
-          icon: require('../static/logo-cpu-touka.png')
+          img: require('@/assets/img/kikaku/cpu.JPG'),
+          icon: require('@/assets/img/kikaku/logo-cpu-touka.png')
         },
         {
           title: 'vision班',
-          img: require('../static/vision.png'),
-          icon: require('../static/logo-vision-touka.png')
+          img: require('@/assets/img/kikaku/vision.png'),
+          icon: require('@/assets/img/kikaku/logo-vision-touka.png')
         },
         {
           title: '芸術表現班',
-          img: require('../static/art2.jpg'),
-          icon: require('../static/logo-art-v2-touka.png')
+          img: require('@/assets/img/kikaku/art2.jpg'),
+          icon: require('@/assets/img/kikaku/logo-art-v2-touka.png')
         },
         {
           title: '光班',
-          img: require('../static/hikari.jpeg'),
-          icon: require('../static/logo-hikari-touka.png')
+          img: require('@/assets/img/kikaku/hikari.jpeg'),
+          icon: require('@/assets/img/kikaku/logo-hikari-touka.png')
         },
         {
           title: '物性班',
-          img: require('../static/bussei.jpg'),
-          icon: require('../static/logo-bussei-touka.png')
+          img: require('@/assets/img/kikaku/bussei.jpg'),
+          icon: require('@/assets/img/kikaku/logo-bussei-touka.png')
         }
       ],
-      
+
       items_3: [
         {
-          img: require('../static/ba-na-_butuko.png'),
+          img: require('@/assets/img/banner/ba-na-_butuko.png'),
           url: "http://www.ap.t.u-tokyo.ac.jp/"
         },
         {
-          img: require('../static/ba-na-_keisu.png'),
+          img: require('@/assets/img/banner/ba-na-_keisu.png'),
           url: "https://www.keisu.t.u-tokyo.ac.jp/"
         },
         {
-          img: require('../static/ba-na-_iinkai.png'),
+          img: require('@/assets/img/banner/ba-na-_iinkai.png'),
           url: "https://gogatsusai.jp/93/visitor/"
         }
 
@@ -204,7 +204,7 @@ img:hover {
         {
           date: '2020-5-19',
           text: '工学博覧会2020HPを公開しました'
-        }, 
+        },
       ]
     })
   }
