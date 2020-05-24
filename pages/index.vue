@@ -138,6 +138,11 @@ img:hover {
 
 <script>
   export default {
+    head() {
+      return {
+        title: 'トップページ'
+      }
+    },
     data: () => ({
       tab:null,
       items_1: [
