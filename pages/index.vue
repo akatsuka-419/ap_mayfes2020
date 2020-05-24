@@ -5,7 +5,7 @@
       <h2>新着情報</h2>
         <v-card
           class="overflow-y-auto my-6 px-4 py-2"
-          height="200"
+          max-height="200"
         >
           <div
             v-for="(item,i) in news"
@@ -190,20 +190,8 @@ img:hover {
       ],
       news: [
         {
-          date: '2020-5-16',
+          date: '2020-5-24',
           text: '工学博覧会2020HPを公開しました。'
-        },
-        {
-          date: '2020-5−17',
-          text: '工学博覧会2020HPを公開しました'
-        },
-        {
-          date: '2020-5-18',
-          text: '工学博覧会2020HPを公開しました'
-        },
-        {
-          date: '2020-5-19',
-          text: '工学博覧会2020HPを公開しました'
         },
       ]
     })
