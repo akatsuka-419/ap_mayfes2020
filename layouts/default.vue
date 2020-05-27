@@ -96,9 +96,9 @@
               <v-card-title class="font-weight-bold text-center justify-center py-4 headline heading">
                 工学博覧会ONLINE
               </v-card-title>
-              <v-card-subtitle class="font-weight-bold text-center justify-center py-4 headline heading">
+              <v-card-title class="font-weight-bold text-center justify-center py-4 headline heading">
                 開催予定
-              </v-card-subtitle>
+              </v-card-title>
               <v-card-text class="text-center text--primary body-1">
                 <span
                 style="text-decoration: underline"
