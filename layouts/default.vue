@@ -93,10 +93,10 @@
         >
           <v-col cols="12" lg="11" md="11">
             <v-card class="mx-4">
-              <v-card-title class="font-weight-bold text-center justify-center pt-4 pb-2 headline heading">
+              <v-card-title class="font-weight-bold text-center justify-center pt-4 pb-1 headline heading">
                 工学博覧会ONLINE
               </v-card-title>
-              <v-card-title class="font-weight-bold text-center justify-center pb-4 headline heading">
+              <v-card-title class="font-weight-bold text-center justify-center pt-1 pb-4 headline heading">
                 開催予定
               </v-card-title>
               <v-card-text class="text-center text--primary body-1">
