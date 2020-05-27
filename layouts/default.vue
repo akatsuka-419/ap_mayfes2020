@@ -16,7 +16,7 @@
       <v-toolbar-title
         @click="$vuetify.goTo(0)"
         v-text="title"
-        class="font-weight-medium"
+        class="font-weight-bold"
       />
       <v-spacer/>
       <v-btn icon href="https://twitter.com/apmayfes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" rel="noopener">
@@ -94,8 +94,11 @@
           <v-col cols="12" lg="11" md="11">
             <v-card class="mx-4">
               <v-card-title class="font-weight-bold text-center justify-center py-4 headline heading">
-                  工学博覧会ONLINE 開催予定
+                工学博覧会ONLINE
               </v-card-title>
+              <v-card-subtitle class="font-weight-bold text-center justify-center py-4 headline heading">
+                開催予定
+              </v-card-subtitle>
               <v-card-text class="text-center text--primary body-1">
                 <span
                 style="text-decoration: underline"
