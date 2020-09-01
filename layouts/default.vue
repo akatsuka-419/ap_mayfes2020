@@ -39,17 +39,8 @@
           <v-col cols="12" lg="11" md="11">
             <v-card class="mx-4">
               <v-card-title class="font-weight-bold text-center justify-center pt-4 display-1 font-weight-medium heading">
-                  工学博覧会ONLINE 開催予定
+                  工学博覧会ONLINE
               </v-card-title>
-              <v-card-text class="text-center text--primary body-1">
-                詳しくはこちら　
-                <span
-                style="text-decoration: underline"
-                @click="$vuetify.goTo('#covid-19')"
-                >
-                COVID-19に関する対応について
-                </span>
-              </v-card-text>
               <v-tabs
                 v-model="tab"
                 color="#B4186E"
@@ -96,17 +87,6 @@
               <v-card-title class="font-weight-bold text-center justify-center pt-4 pb-1 headline heading">
                 工学博覧会ONLINE
               </v-card-title>
-              <v-card-title class="font-weight-bold text-center justify-center pt-1 pb-4 headline heading">
-                開催予定
-              </v-card-title>
-              <v-card-text class="text-center text--primary body-1">
-                <span
-                style="text-decoration: underline"
-                @click="$vuetify.goTo('#covid-19')"
-                >
-                COVID-19に関する対応について
-                </span>
-              </v-card-text>
               <v-expansion-panels accordion>
                 <v-expansion-panel
                   v-for="(item, i) in items"
