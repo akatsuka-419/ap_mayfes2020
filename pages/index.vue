@@ -18,37 +18,17 @@
         </v-card>
 
       <h2 class="mt-6">企画紹介</h2>
-      <h3 class="mt-4">実験班</h3>
-      <p class="ma-4">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
-      <v-row>
-        <template v-for="(item, i) in items_1">
-          <v-col
-            :key="`card-${i}`"
-            cols="12"
-            sm="6"
-            lg="4"
-          >
-            <v-hover v-slot:default="{ hover }">
-              <v-card
-                :elevation="hover ? 12 : 2"
-                :class="{ 'on-hover': hover }"
-                class="my-4"
-                color="black"
-              >
-                <v-img :src="item.img" height="200px"></v-img>
-                <div class="kikaku_parent">
-                  <img :src="item.icon" width="40" height="40" class="kikaku_child">
-                  <h4 class="kikaku_child">{{ item.title }}</h4>
-                </div>
-              </v-card>
-            </v-hover>
-          </v-col>
-        </template>
-      </v-row>
-      <h3 class="mt-4">企画班</h3>
-      <p class="ma-4 headline">Coming soon…</p>
+      <v-card class="my-4 px-2 py-1">
+        <h3 class="ma-2">実験班</h3>
+        <p class="mt-4 mx-4 mb-1 body-2">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
+        <p class="mt-2 mx-4 mb-1 body-2 font-weight-bold">実験にはそれぞれ物語がそえられており、読み進めることで不思議な世界をめぐりながら実験を楽しむことができます。</p>
+      </v-card>
 
-
+      <v-card class="my-4 px-2 py-1">
+        <h3 class="ma-2">ライブ配信</h3>
+        <h5 class="mt-4 mx-4 mb-1">①実験や講演企画を五月祭当日に生配信！</h5> 
+        <h5 class="mt-4 mx-4 mb-1">②Spatial Chatでメンバーと交流できる！</h5>
+      </v-card>
 
       <h2 class="mt-6">アクセス</h2>
       <v-row>
