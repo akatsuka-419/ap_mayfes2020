@@ -39,7 +39,8 @@
           <v-col cols="12" lg="11" md="11">
             <v-card class="mx-4">
               <v-card-title class="font-weight-bold text-center justify-center pt-4 display-1 font-weight-medium heading">
-                  工学博覧会ONLINE
+                  工学博覧会ONLINE<br>
+                  2020年9月20,21日開催
               </v-card-title>
               <v-tabs
                 v-model="tab"
@@ -85,7 +86,8 @@
           <v-col cols="12" lg="11" md="11">
             <v-card class="mx-4">
               <v-card-title class="font-weight-bold text-center justify-center pt-4 pb-1 headline heading">
-                工学博覧会ONLINE
+                工学博覧会ONLINE<br>
+                2020年9月20,21日開催
               </v-card-title>
               <v-expansion-panels accordion>
                 <v-expansion-panel
@@ -149,7 +151,7 @@ export default {
         {
           title:'工学博覧会とは',
           text1:'工学博覧会は物理工学科と計数工学科の学生有志が、日頃学んでいる学問や学生生活を紹介する展示企画です。皆さんが中学や高校で学ぶ数学や物理は工学に用いられ、生活の役に立ったり時には人を感動させる作品を作り上げます。',
-          text2:'見て、触って、話して、美しき工学の世界を一緒に楽しみませんか？',
+          text2:'見て、聞いて、話して、美しき工学の世界を一緒に楽しみませんか？',
           text3:''
         },
         {

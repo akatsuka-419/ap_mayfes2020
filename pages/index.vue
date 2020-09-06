@@ -17,7 +17,7 @@
           </div>
         </v-card>
 
-      <h2 class="mt-6">企画紹介</h2>
+      <h2 class="mt-6">企画紹介<span class="caption mx-4">URLは当日公開します</span></h2>
       <v-card class="my-4 px-2 py-1">
         <h3 class="ma-2">実験班</h3>
         <p class="mt-4 mx-4 mb-1 body-2">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
@@ -30,22 +30,6 @@
         <h5 class="mt-4 mx-4 mb-1">②Spatial Chatでメンバーと交流できる！</h5>
       </v-card>
 
-      <h2 class="mt-6">アクセス</h2>
-      <v-row>
-        <v-col cols="12" lg="8">
-          <v-img :src="require('@/assets/img/map/campasmap-1.jpg')"></v-img>
-        </v-col>
-        <v-col cols="12" lg="4">
-          <v-card class="px-4 py-1" height="100%">
-            <h4 class="pb-2 my-4 border-bottom">会場</h4>
-            <p>東京大学 本郷キャンパス工学部6号館</p>
-            <h4 class="pb-2 my-4 border-bottom">最寄駅</h4>
-            <p>東大前駅(南北線)　徒歩8分</p>
-            <p>本郷三丁目駅(丸の内線)　徒歩12分</p>
-            <p>根津駅(千代田線)　徒歩12分</p>
-          </v-card>
-        </v-col>
-      </v-row>
       <v-divider class="my-6"></v-divider>
 
       <p class="text-center headline font-weight-bold"><span class="rink">リンク</span></p>
@@ -171,6 +155,10 @@ img:hover {
           date: '2020-5-26',
           text: '工学博覧会2020HPを公開しました。'
         },
+        {
+          date: '2020-9-2',
+          text: '企画紹介を更新しました。'
+        }
       ]
     })
   }
