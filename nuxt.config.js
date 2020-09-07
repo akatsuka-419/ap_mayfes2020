@@ -1,6 +1,6 @@
 import colors from 'vuetify/es5/util/colors'
 
-const baseURL = '' // todo
+const baseURL = 'https://techexpo-apphys.com'
 const description = '工学博覧会2020オンラインの公式ウェブサイトです。'
 
 
