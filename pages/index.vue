@@ -27,7 +27,7 @@
       <v-card class="my-4 px-2 py-1">
         <h3 class="ma-2">ライブ配信</h3>
         <h5 class="mt-4 mx-4 mb-1">①実験や講演企画を五月祭当日に生配信！</h5> 
-        <h5 class="mt-4 mx-4 mb-1">②Spatial Chatでメンバーと交流できる！</h5>
+        <h5 class="mt-4 mx-4 mb-1">②Discordでメンバーと交流できる！</h5>
       </v-card>
 
       <v-divider class="my-6"></v-divider>
