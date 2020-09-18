@@ -69,7 +69,7 @@
 
              <h3 class="live_subtitle my-6 pl-6">企画紹介</h3>
 
-             <h3 class="live_subsubtitle my-6 ml-2">先生インタビュー</h3>
+             <h3 class="live_subsubtitle my-6 ml-2">教えて応物！！先生インタビュー</h3>
              <p class="ml-4 kikaku_sentence">
                  計数工学科・物理工学科の先生方にさまざまな質問をなげかけます!<br>
                  質問はTwitterにて随時募集中!ハッシュタグ「<span class="font-weight-bold">#教えて応物</span>」をつけてツイートしてください。<br>
@@ -371,7 +371,7 @@ export default {
       schedule1: [
           {
             time: '10:00-',
-            event: '閉会式',
+            event: '開会式',
             detail: '',
             isLive: false,
             isInterview: false,
@@ -468,7 +468,7 @@ export default {
           {
             time: '16:15-',
             event: '学生座談会',
-            detail: '数理情報系３学科',
+            detail: '計数数理に似た学科',
             isLive: false,
             isInterview: false,
             isSymposium: true
@@ -501,7 +501,7 @@ export default {
         schedule2: [
           {
             time: '10:00-',
-            event: '閉会式',
+            event: '開会式',
             detail: '',
             isLive: false,
             isInterview: false,
@@ -598,7 +598,7 @@ export default {
           {
             time: '16:15-',
             event: '学生座談会',
-            detail: 'システム情報系３学科',
+            detail: '計数システムに似た学科',
             isLive: false,
             isInterview: false,
             isSymposium: true
