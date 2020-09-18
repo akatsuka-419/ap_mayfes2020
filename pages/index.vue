@@ -17,7 +17,7 @@
           </div>
         </v-card>
 
-      <h2 class="mt-6 heading2">企画紹介<span class="caption mx-4">URLは当日公開します</span></h2>
+      <h2 class="mt-6 heading2">企画紹介
 
       <v-row justify="center">
         <template>
@@ -25,10 +25,11 @@
             cols="12"
             sm="6"
             align="center"
-          >
+          >  
             <img src="@/assets/img/door/door_close_jikken.png">
-            <p class="body-2 text_tenji mr-12">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
-            <p class="body-2 text_tenji mr-12">実験にはそれぞれ物語がそえられており、読み進めることで不思議な世界をめぐりながら実験を楽しむことができます。</p>
+            <p class="text-door">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
+            <p class="text-door">実験にはそれぞれ物語がそえられており、読み進めることで不思議な世界をめぐりながら実験を楽しむことができます。</p>
+            <p class="text-door">（URLは当日公開します。）</p>
           </v-col>
 
           <v-col
@@ -36,9 +37,14 @@
             sm="6"
             align="center"
           >
-            <img src="@/assets/img/door/door_close_live.png">
-            <p class="body-2 text_live mr-12">実験や講演企画を五月祭当日に生配信します。</p>
-            <p class="body-2 text_live mr-12">学生や先生との交流も企画しています。</p>
+            <nuxt-link :to="{ name: 'live', params: {id: id} }">
+              <div class="door-box" ontouchstart="">
+                <img src="@/assets/img/door/door_close_live.png">
+                <img src="@/assets/img/door/door_close2_live.png" class="active">
+              </div>
+            </nuxt-link>
+            <p class="text-door">実験や講演企画を五月祭当日に生配信します。</p>
+            <p class="text_door">学生や先生との交流も企画しています。</p>
           </v-col>
         </template>
       </v-row>
@@ -56,7 +62,7 @@
             align="center"
           >
             <a v-bind:href="item.url" target="_blank" rel="noopener">
-              <img class="ma-3 img_link" :src="item.img">
+              <img class="ma-3 img_link" ontouchstart="" :src="item.img">
             </a>
           </v-col>
         </template>
@@ -75,7 +81,7 @@
             align="center"
           >
             <a v-bind:href="item.url" target="_blank" rel="noopener">
-              <img class="ma-3 img_rink" :src="item.img">
+              <img class="ma-3 img_rink" ontouchstart="" :src="item.img">
             </a>
           </v-col>
         </template>
@@ -96,21 +102,6 @@
   background-color: #B4186E;
 }
 
-.kikaku_parent{
-  height: 45px;
-  line-height: 45px;
-  padding-left: 10px;
-}
-
-.kikaku_child{
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.border-bottom{
-  border-bottom: solid 1px #B4186E;
-}
-
 .rink{
   border-bottom: solid 2px #B4186E;
 }
@@ -119,12 +110,24 @@
 	opacity: 0.7;
 }
 
-.text_tenji{
-  text-align: left;
+.text_door{
+  text-align: center;
 }
 
-.text_live{
-  text-align: center;
+.door-box{
+  position: relative;
+  display: inline-block;
+}
+
+.door-box .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.door-box:hover .active {
+  opacity: 1;
 }
 </style>
 
@@ -160,7 +163,7 @@
         },
         {
           img: require('@/assets/img/banner/ba-na-_cast.png'),
-          url: "https://ut-cast.net/mayfes2020/pre/"
+          url: "https://ut-cast.net/mayfes2020/"
         },
         {
           img: require('@/assets/img/banner/ba-na-_medical.png'),
@@ -180,6 +183,10 @@
         {
           date: '2020-9-2',
           text: '企画紹介を更新しました。'
+        },
+        {
+          date: '2020-9-18',
+          text: 'ライブ配信を更新しました。'
         }
       ]
     })

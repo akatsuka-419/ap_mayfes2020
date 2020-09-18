@@ -80,6 +80,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css' },
       { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap' },
       { rel: 'apple-touch-icon', type: 'image/png', href: '/apple-touch-icon-180x180.png'},
       { rel: 'icon', type: 'image/png', href: '/icon-192x192.png'},
     ]
