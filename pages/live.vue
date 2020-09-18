@@ -243,7 +243,7 @@ p{
 }
 
 .exhibition:before{
-  content: url("@/assets/img/logo/point.png");
+  content: url(@/assets/img/logo/point.png);
   position: relative;
   top: 7px;
   margin: 0 30px 0 0;
