@@ -4,10 +4,10 @@
         <v-container class="py-0"> 
             <h2 class="my-8 exhibition">ライブ企画</h2>
 
-            <a href="#" class="btn-flat-border mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="" target="_blank" rel="noopener">YouTubeライブへ</a>
+            <a href="#" class="btn-flat-border mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="" rel="noopener">YouTubeライブへ</a>
             <p class="ml-6 explanation">実験や座談会を生配信します！（URLは当日公開します。）</p>
 
-            <a href="#" class="btn-flat-border-blue mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="" target="_blank" rel="noopener">Discordへ</a>
+            <a href="#" class="btn-flat-border-blue mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="" rel="noopener">Discordへ</a>
             <p class="ml-6 explanation">
               テキストチャットとボイスチャットで学生達とゆる~い交流が楽しめます。<br>
               質問・感想・相談など気軽にお寄せください。(ブラウザからはアカウントを登録せずにご参加いただけます)<br>
