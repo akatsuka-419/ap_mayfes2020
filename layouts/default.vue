@@ -147,19 +147,19 @@
 
 .main-title-phone{
   letter-spacing: 0.2em;
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
 .sub-title{
   letter-spacing: 0.05em;
-  font-size: 1.05em;
+  font-size: 0.95em;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
 .date{
   letter-spacing: 0.05em;
-  font-size: 1.3em;
+  font-size: 1.05em;
   font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
 }
 
