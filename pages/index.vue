@@ -17,7 +17,7 @@
           </div>
         </v-card>
 
-      <h2 class="mt-6 heading2">企画紹介
+      <h2 class="mt-6 heading2">企画紹介</h2>
 
       <v-row justify="center">
         <template>
@@ -25,7 +25,7 @@
             cols="12"
             sm="6"
             align="center"
-          >  
+          >
             <img src="@/assets/img/door/door_close_jikken.png">
             <p class="text-door">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
             <p class="text-door">実験にはそれぞれ物語がそえられており、読み進めることで不思議な世界をめぐりながら実験を楽しむことができます。</p>
