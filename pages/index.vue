@@ -48,7 +48,7 @@
               </div>
             </nuxt-link>
             <p class="text-door">実験や講演企画を五月祭当日に生配信します。</p>
-            <p class="text_door">学生や先生との交流も企画しています。</p>
+            <p class="text-door">学生や先生との交流も企画しています。</p>
           </v-col>
         </template>
       </v-row>
@@ -130,7 +130,7 @@
 	opacity: 0.7;
 }
 
-.text_door{
+.text-door{
   font-size: 0.9em;
   text-align: center;
 }
