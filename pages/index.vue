@@ -131,6 +131,7 @@
 }
 
 .text_door{
+  font-size: 0.9em;
   text-align: center;
 }
 
