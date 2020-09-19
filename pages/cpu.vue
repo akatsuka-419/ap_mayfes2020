@@ -64,7 +64,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="logic">論理素子</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -129,7 +129,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="switch">スイッチング</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -195,7 +195,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="cpu">CPU</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"

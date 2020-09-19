@@ -46,7 +46,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="pulse">パルスと音高</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -113,7 +113,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="piano">Sparta Piano</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -186,7 +186,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="pm">プロジェクションマッピング </h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"

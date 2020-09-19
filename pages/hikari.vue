@@ -46,7 +46,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="corridor">無限回廊</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -117,7 +117,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="polarizer">偏光板アート</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -187,7 +187,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="spectroscopy">CD分光</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -252,7 +252,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="laser">レーザー通信</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -309,7 +309,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="ghost">Pepper’s Ghost</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"

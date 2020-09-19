@@ -50,7 +50,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="chase">顔追跡ゲーム</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -84,7 +84,7 @@
                 </template>
             </v-row>
 
-            <h3 class="live-jikken-ai my-6 ml-12">ライブ実験</h3>
+            <h3 class="live-jikken-ai my-6">ライブ実験</h3>
             <p class="live-jikken-date-ai font-weight-bold">9月20日　15:30-16:00</p>
             <p class="live-jikken-date-ai font-weight-bold">9月21日　10:30-11:00</p>
 
@@ -126,7 +126,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="Brutus">ブルータスAI</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -155,7 +155,7 @@
                 </template>
             </v-row>
 
-            <h3 class="live-jikken-ai my-6 ml-12">ライブ実験</h3>
+            <h3 class="live-jikken-ai my-6">ライブ実験</h3>
             <p class="live-jikken-date-ai font-weight-bold">9月20日　14:30-15:00</p>
             <p class="live-jikken-date-ai font-weight-bold">9月21日　13:30-14:00</p>
 
@@ -330,7 +330,6 @@ a.btn-flat-border:active{
     letter-spacing: 0.1em;
     font-size: 1.2em;
     color: #FB7BFF;
-    margin-left: 65px;
 }
 
 .ehon2{

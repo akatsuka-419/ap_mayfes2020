@@ -45,7 +45,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="linear">超伝導リニア</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -111,7 +111,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="Brutus">液体酸素</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"

@@ -58,7 +58,7 @@
             </v-row>
 
             <h2 class="my-8 jikken-heading" id="IIT">統合情報理論</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -128,7 +128,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="shounou">小脳実験</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
@@ -191,7 +191,7 @@
 
 
             <h2 class="mb-8 jikken-heading" id="jiyu">自由エネルギー原理</h2>
-            <v-row justify="center" class="ml-12">
+            <v-row justify="center">
                 <template>
                 <v-col
                     cols="12"
