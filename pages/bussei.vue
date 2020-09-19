@@ -14,6 +14,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         メイプちゃんは気づくと，駅にいました．<br>
@@ -36,6 +37,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/bussei-1.png">
                     </v-col>
@@ -80,6 +82,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                        ふわふわ浮かぶ電車はしばらくすると，海に出ました．<br>
@@ -99,6 +102,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/bussei-2.png">
                     </v-col>
@@ -148,6 +152,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         そのあとすぐに電車はトンネルに入りました．そのおかげでメイプちゃんは無事に終点まで着くことができるのでした．<br>
@@ -164,6 +169,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/bussei-3.png">
                     </v-col>

@@ -21,6 +21,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         メイプちゃんは小さな街のなかにいました．<br>
@@ -49,6 +50,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/brain-1.png">
                     </v-col>
@@ -96,6 +98,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         ねずみ裁判官A<br>
@@ -116,6 +119,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/brain-2.png">
                     </v-col>
@@ -165,6 +169,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                        その様子を見ていた，年老いた裁判長と思われるねずみが怒り出し，<br>
@@ -230,6 +235,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         ねずみたちが落ちる床をよく観察しながら，メイプちゃんは少しづつ歩を進めていきました．<br>
@@ -244,6 +250,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/brain-3.png">
                     </v-col>

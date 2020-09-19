@@ -23,6 +23,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         メイプちゃんは長い長い廊下を歩き続けていました．<br>
@@ -37,6 +38,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/hikari-1.png">
                     </v-col>
@@ -81,6 +83,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 「ちょっと，そこのあなた止まりなさい！」<br>
@@ -105,6 +108,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/hikari-2.png">
                     </v-col>
@@ -157,6 +161,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 「すごい！」<br>
@@ -173,6 +178,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/hikari-3.png">
                     </v-col>
@@ -220,6 +226,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 「ああ、あなたを見ていたら音楽のアイデアも浮かんできたわ。今演奏してあげるわね。えい！」<br>
@@ -236,6 +243,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/hikari-4.png">
                     </v-col>
@@ -285,6 +293,7 @@
                         cols="12"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 「これも何かの縁ですし、私のアシスタントにならない？」<br>
@@ -338,6 +347,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         さっきまでそこにいたはずのクジャクもいなくなっていました。スイッチをもう一度見ると、そこには「消灯ボタン、押すべからず。私も消えてしまいます。」と書いてありました。
@@ -350,6 +360,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/hikari-5.png">
                     </v-col>

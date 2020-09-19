@@ -21,6 +21,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                        どんどんと空が暗くなり，雨が降り始めました．<br>
@@ -37,6 +38,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/art-1.png">
                     </v-col>
@@ -79,6 +81,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 とある部屋に入ると，そこにはピアノが一台置いてありました．<br>
@@ -101,6 +104,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/art-2.png">
                     </v-col>
@@ -147,6 +151,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
 それから数時間ほどメイプちゃんは特訓を受けると，次第にピアノの音が出るようになりました．<br>
@@ -172,6 +177,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/art-3.png">
                     </v-col>
@@ -219,6 +225,7 @@
                         cols="12"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         ページをめくり続けていると応物の世界の地図が出てきました．<br>

@@ -21,6 +21,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         メイプちゃんは，広いホールに来ていました．<br>
@@ -55,6 +56,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/cpu-1.png">
                     </v-col>
@@ -163,6 +165,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                    ステージ上の論理素子たちは踊り続けます．<br>
@@ -182,6 +185,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/cpu-3.png">
                     </v-col>
@@ -238,6 +242,7 @@
                         cols="12"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                        「ここは不思議な応物の国♪」<br>

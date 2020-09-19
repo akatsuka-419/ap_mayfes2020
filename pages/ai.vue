@@ -20,6 +20,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         メイプちゃんは気づくとゲームセンターにいました．<br>
@@ -41,6 +42,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/ai-1.png">
                     </v-col>
@@ -94,6 +96,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         「ソコ ノ ニンゲン」<br>
@@ -113,6 +116,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/ai-2.png">
                     </v-col>
@@ -162,6 +166,7 @@
                         md="8"
                         align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         それから何十回対戦したのでしょう．メイプちゃんは一度も勝つことができません．<br>
@@ -182,6 +187,7 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/ai-3.png">
                     </v-col>
