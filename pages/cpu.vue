@@ -358,6 +358,7 @@ a.btn-flat-border:active{
 
 .sentence{
     font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 0.8em;
 }
 
 .img-div{
