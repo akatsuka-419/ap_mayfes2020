@@ -5,7 +5,7 @@
             <h1 class="my-12 title-bussei">物性</h1>
 
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#linear')">- <span class="underline">超伝導リニア</span></p>
-            <p class="contents font-weight-bold" @click="$vuetify.goTo('#nitrogen')">- <span class="underline">液体酸素</span></p>
+            <p class="contents font-weight-bold pb-4" @click="$vuetify.goTo('#nitrogen')">- <span class="underline">液体酸素</span></p>
 
             <v-row justify="center" class="ehon1 mt-12">
                 <template>
@@ -225,7 +225,7 @@
 }
 
 .contents{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .btn-flat-border {
@@ -348,6 +348,7 @@ a.btn-flat-border:active{
 
 .underline {
     border-bottom: solid 2px;
+    font-size: 20px;
 }
 
 .ehon3{

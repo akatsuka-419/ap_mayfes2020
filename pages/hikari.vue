@@ -8,7 +8,7 @@
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#polarizer')">- <span class="underline">偏光板アート</span></p>
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#spectroscopy')">- <span class="underline">CD分光</span></p>
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#laser')">- <span class="underline">レーザー通信</span></p>
-            <p class="contents font-weight-bold" @click="$vuetify.goTo('#ghost')">- <span class="underline">Pepper’s Ghost</span></p>
+            <p class="contents font-weight-bold pb-4" @click="$vuetify.goTo('#ghost')">- <span class="underline">Pepper’s Ghost</span></p>
             
             <a href="https://youtu.be/HQftPTCIqUo" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
             <div class="live-date mt-2 ml-4">
@@ -416,7 +416,7 @@
 }
 
 .contents{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .btn-flat-border {
@@ -539,6 +539,7 @@ a.btn-flat-border:active{
 
 .underline {
     border-bottom: solid 2px;
+    font-size: 20px;
 }
 
 .ehon3{
