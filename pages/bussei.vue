@@ -13,7 +13,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -81,7 +81,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -151,7 +151,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -264,7 +264,7 @@ a.btn-flat-border:active{
 
 .ehon1{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-ue.png') 15.5% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-ue.png') 15.5% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;
@@ -314,7 +314,7 @@ a.btn-flat-border:active{
 
 .ehon2{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-body.png') 13% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-body.png') 13% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;
@@ -352,7 +352,7 @@ a.btn-flat-border:active{
 
 .ehon3{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-shita.png') 15.5% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-shita.png') 15.5% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;

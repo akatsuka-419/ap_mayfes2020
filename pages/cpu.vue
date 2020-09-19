@@ -20,7 +20,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -104,7 +104,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                     >
                     <p class="sentence mb-0">  
                         その時です, 突然奥から三角の論理素子が出てきたかと思うと, 舞台上の「上演中」の札の横に「準備中」の札も出てきました. <br>
@@ -164,7 +164,7 @@
                         cols="12"
                         md="8"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -241,7 +241,7 @@
                     <v-col
                         cols="12"
                         align="center"
-                        class="sentence-div"
+                        class="sentence-div pa-0"
                         align-self="center"
                     >
                     <p class="sentence mb-0">  
@@ -345,7 +345,7 @@ a.btn-flat-border:active{
 
 .ehon1{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-ue.png') 15.5% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-ue.png') 15.5% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;
@@ -395,7 +395,7 @@ a.btn-flat-border:active{
 
 .ehon2{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-body.png') 13% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-body.png') 13% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;
@@ -433,7 +433,7 @@ a.btn-flat-border:active{
 
 .ehon3{
     border-style: solid;
-    border-image: url('../assets/img/ehon/ehon-shita.png') 15.5% 6% / 70px repeat;
+    border-image: url('../assets/img/ehon/ehon-shita.png') 15.5% 6% / 40px repeat;
     font-size: 1.3em;
     color: black;
     background-color: #F7F6E8;
