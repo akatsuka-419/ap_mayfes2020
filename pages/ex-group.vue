@@ -14,7 +14,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div"
                         align-self="center"
                     >
@@ -29,13 +28,13 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/op-1.png"><br>
                     </v-col>
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div"
                         align-self="center"
                     >
@@ -55,14 +54,15 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/op-2.png"><br>
                     </v-col>
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div"
+                        align-self="center"
                     >
                     <p class="sentence-ex mb-0">  
                     「うげ〜」<br>
@@ -204,7 +204,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div"
                         align-self="center"
                     >
@@ -219,15 +218,15 @@
                     <v-col
                         cols="12"
                         md="4"
-                        align="center"
                         class="img-div"
+                        align="center"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/ed-1.png"><br>
                     </v-col>
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div"
                         align-self="center"
                     >
@@ -249,13 +248,14 @@
                         md="4"
                         align="center"
                         class="img-div"
+                        align-self="center"
                     >
                     <img src="../assets/img/ehon/ed-2.png"><br>
                     </v-col>
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                        align-self="center"
                         class="sentence-div"
                     >
                     <p class="sentence-ex mb-0">  
