@@ -30,7 +30,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/op-1.png"><br>
+                    <img src="../assets/img/ehon/op-1.png" width="200px"><br>
                     </v-col>
                     <v-col
                         cols="12"
@@ -56,7 +56,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/op-2.png"><br>
+                    <img src="../assets/img/ehon/op-2.png" width="200px"><br>
                     </v-col>
                     <v-col
                         cols="12"
@@ -93,7 +93,7 @@
                         align-self="center"
                         class="img-div"
                     >
-                    <img src="../assets/img/ehon/op-3.png"><br>
+                    <img src="../assets/img/ehon/op-3.png" width="200px"><br>
                     </v-col>
                    </v-row>    
                   </v-expansion-panel-content>
@@ -222,7 +222,7 @@
                         align="center"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/ed-1.png"><br>
+                    <img src="../assets/img/ehon/ed-1.png" width="200px"><br>
                     </v-col>
                     <v-col
                         cols="12"
@@ -250,7 +250,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/ed-2.png"><br>
+                    <img src="../assets/img/ehon/ed-2.png" width="200px"><br>
                     </v-col>
                     <v-col
                         cols="12"
@@ -282,7 +282,7 @@
                         align-self="center"
                         class="img-div"
                     >
-                    <img src="../assets/img/ehon/ed-3.png"><br>
+                    <img src="../assets/img/ehon/ed-3.png" width="200px"><br>
                     </v-col>
                    </v-row>    
 
