@@ -60,9 +60,9 @@
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
                     
-                    <nuxt-link to="../PDF/機械学習班_1_顔のトラッキング.pdf">
+                    <a href="/機械学習班_1_顔のトラッキング.pdf">
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔追跡ゲーム.png" ontouchstart="" class="img_rink mr-4">
-                    </nuxt-link>
+                    </a>
                     
                     <a href="../assets/PDF/機械学習班_1_顔のトラッキング.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔のトラッキング.png" ontouchstart="" class="img_rink">
