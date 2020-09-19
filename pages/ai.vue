@@ -60,7 +60,7 @@
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
                     
-                    <a href="https://drive.google.com/file/d/16TBhVxJRAzfnqq7ioKLXmzlCLmqQaTAq/view?usp=sharing" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1nywJo5PktYJEZDPbsd_rdmqiS19HO0nQ/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔追跡ゲーム.png" ontouchstart="" class="img_rink mr-4">
                     </a>
                     
