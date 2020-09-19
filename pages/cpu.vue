@@ -73,7 +73,7 @@
                     <p class="subtitle-1">論理素子について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/CPU班_1_論理素子.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/17wJ2ali4LWogi11AJAzFo37CRPvoLh0X/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_1_論理素子.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -138,7 +138,7 @@
                     <p class="subtitle-1">論理回路を用いてスイッチングを行う方法について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/CPU班_2_スイッチング.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1PfX8dNk7yOggW6Av94TmcGj6eoeGWkr1/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_2_スイッチング.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -204,7 +204,7 @@
                     <p class="subtitle-1">CPUの動作について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/CPU班_3_CPU.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1MlCEYs7G7T1HxhV4d5C-xyJ_LQ1klLTD/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_3_CPU.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>

@@ -53,10 +53,10 @@
                 >
                     <p class="subtitle-1">超伝導体物質を液体窒素で冷やし超伝導状態にすることで，磁石で作られたレールの上を浮上しながら走らせることができます．これは超伝導特有の性質であるマイスナー効果とピン止め効果による現象です．現在開発中のリニアモーターカーと原理は違うのですが，簡易なモデルとしてお楽しみください．</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-                    <a href="../assets/PDF/物性班_1_超伝導リニア.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/153FSjjq3vRSWKByLZ5xave5aIeJ2LHuS/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_1_超伝導リニア.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/物性班_1_超伝導.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/15IrL94pm_Y7b3IEqOWAX_cRMEgYxHj4w/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_1_超伝導.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -123,10 +123,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/物性班_2_常磁性.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1SPkXXGs2bM9Bw8N1X5xKVq8Y3RilrHyN/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_2_常磁性.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/物性班_2_磁性.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1d-05n9vdpM7KwhuMKZ5BR3fHMJKhoV76/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_2_磁性.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>

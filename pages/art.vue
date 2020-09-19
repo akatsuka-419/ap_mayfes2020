@@ -55,7 +55,7 @@
                     <p class="subtitle-1">音を配置した作品です．あなたの音楽体験に深みを．</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/芸術表現班_1_パルスと音高.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1TfnD3YJporYEcmCdf6Lhcq0nx9Q-tbJs/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/芸術表現班_1_パルスと音高.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -122,7 +122,7 @@
                     <p class="subtitle-1">ピアノを演奏するときの筋電を計測して，演奏しているときのあなたの腕の状態に応じて音出力が変化します．同じ曲を弾いていても，人によって結果が異なったり，同じ人でも昨日と今日とでは反応が違うかもしれません．普段演奏しながら主観的には気づきにくい身体の情報を拾うためのピアノです.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/芸術表現班_2_sparta_piano.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1MJtsDEploQmmqpK1tkwSjq_97XfhpckH/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/芸術表現班_2_sparta_piano.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -195,7 +195,7 @@
                     <p class="subtitle-1">立てかけたノートの前に立ち，ページをめくる動作をすると，本物の絵本のように映像が変化します.実際のノートを用いながら，そこに現れる絵は動いたり光ったり，実際の絵本ではありえない動きをします．</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/芸術表現班_3_プロジェクションマッピング.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1LZmZxaJnmIY6byVCPCH6DmKhDPa6BAx8/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/芸術表現班_3_プロジェクションマッピング.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>

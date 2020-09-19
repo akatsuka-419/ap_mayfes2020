@@ -64,7 +64,7 @@
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔追跡ゲーム.png" ontouchstart="" class="img_rink mr-4">
                     </a>
                     
-                    <a href="../assets/PDF/機械学習班_1_顔のトラッキング.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1nfcnQs-8OBQ9Kvm-Qi6WgU0GTCstnWE4/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔のトラッキング.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -135,7 +135,7 @@
                     <p class="fsubtitle-1">ブルータスというボードゲームを, AIに学習させました．あなたはこのAIに勝てますか？</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/機械学習班_2_ブルータスAI.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1HEQcLFDcaoNfb1PQLEtMiYnWcXAzLdbq/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/機械学習班_2_ブルータスAI.png" ontouchstart="" class="img_rink">
                     </a>
 

@@ -57,7 +57,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/光班_1_無限回廊.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1xkYvK21PPjbEqR7i0Ajiqx_hyPe47rW_/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_1_無限回廊.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -128,10 +128,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/光班_2_セロハンお絵かき.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1FaDPH0Z0K-B10WrzhA-U-9rVhe5Zawxn/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_2_セロハンお絵かき.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/光班_2_理論.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/16xqbcV65RDDBwS23MfOl4ulDAUUtJb0l/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_2_理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -198,7 +198,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/光班_3_CD分光.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1wzW3VTJ0lfu4Of8W3siIu9HCV3-kXZvz/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_3_CD分光.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -263,7 +263,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/光班_4_レーザー通信.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1jluyn66tX_SH3W4PkFQuHgyCJBBhZHBk/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_4_レーザー通信.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -320,7 +320,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/光班_5_peppers_ghost.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1-oGKTfj081QNupX-gfR_9y9f6k0y5L2n/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_5_peppers_ghost.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>

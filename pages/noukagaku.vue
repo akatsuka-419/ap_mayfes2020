@@ -69,10 +69,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/脳科学班_1_IIT実験.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/17spKU8bDy__GLfBCdHqHwD9JLgC0eUK4/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_1_IIT実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/脳科学班_1_IIT理論.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/10T16YyfsQkKJtedGDNIy1DqNVy-DTq6B/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_1_IIT理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -139,10 +139,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/脳科学班_2_小脳実験.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1SAArgtrvkDTNXLwPJ6fmGLmxMmwKcmA5/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_2_小脳実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/脳科学班_2_小脳理論.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1HEhDUQo1y1khhEfbCDI-HrFCMXd3tY6m/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_2_小脳理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -202,10 +202,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="../assets/PDF/脳科学班_3_FEP実験.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1d1syr-XWC7aUAvW0s1li8x09Maql8x4e/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_3_FEP実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="../assets/PDF/脳科学班_3_FEP理論.pdf" target="_blank" rel="noopener">
+                    <a href="https://drive.google.com/file/d/1dfTpzQ94-EaKd3WhGDowUd8pwsdvbRCI/view?usp=sharing" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_3_FEP理論.png" ontouchstart="" class="img_rink">
                     </a>
 
