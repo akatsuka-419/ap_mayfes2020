@@ -5,7 +5,7 @@
             <h1 class="my-12 title-bussei">物性</h1>
 
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#linear')">- <span class="underline">超伝導リニア</span></p>
-            <p class="contents font-weight-bold" @click="$vuetify.goTo('#nitrogen')">- <span class="underline">液体窒素</span></p>
+            <p class="contents font-weight-bold" @click="$vuetify.goTo('#nitrogen')">- <span class="underline">液体酸素</span></p>
 
             <v-row justify="center" class="ehon1 mt-12">
                 <template>
@@ -110,7 +110,7 @@
             </v-row>
 
 
-            <h2 class="mb-8 jikken-heading" id="Brutus">液体窒素</h2>
+            <h2 class="mb-8 jikken-heading" id="Brutus">液体酸素</h2>
             <v-row justify="center" class="ml-12">
                 <template>
                 <v-col
