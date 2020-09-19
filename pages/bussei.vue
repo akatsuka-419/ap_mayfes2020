@@ -258,7 +258,7 @@ a.btn-flat-border:active{
 .live-date-letter{
     color: #ff8080;
     font-size: 1.5em;
-    line-height: 0.9em;
+    line-height: 1.3em;
     letter-spacing: 0.15em;
 }
 

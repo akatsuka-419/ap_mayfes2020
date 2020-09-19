@@ -69,10 +69,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="脳科学班_1_IIT実験.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_1_IIT実験.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_1_IIT実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="脳科学班_1_IIT理論.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_1_IIT理論.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_1_IIT理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -139,10 +139,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="脳科学班_2_小脳実験.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_2_小脳実験.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_2_小脳実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="脳科学班_2_小脳理論.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_2_小脳理論.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_2_小脳理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -202,10 +202,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="脳科学班_3_FEP実験.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_3_FEP実験.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_3_FEP実験.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="脳科学班_3_FEP理論.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/脳科学班_3_FEP理論.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/脳科学班_3_FEP理論.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -340,7 +340,7 @@ a.btn-flat-border:active{
 .live-date-letter{
     color: #ff8080;
     font-size: 1.5em;
-    line-height: 0.9em;
+    line-height: 1.3em;
     letter-spacing: 0.15em;
 }
 
