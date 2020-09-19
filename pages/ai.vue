@@ -44,7 +44,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/ai-1.png">
+                    <img src="../assets/img/ehon/ai-1.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -118,7 +118,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/ai-2.png">
+                    <img src="../assets/img/ehon/ai-2.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -189,7 +189,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/ai-3.png">
+                    <img src="../assets/img/ehon/ai-3.png" width="200px">
                     </v-col>
                 </template>
             </v-row>

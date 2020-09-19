@@ -40,7 +40,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/hikari-1.png">
+                    <img src="../assets/img/ehon/hikari-1.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -110,7 +110,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/hikari-2.png">
+                    <img src="../assets/img/ehon/hikari-2.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -180,7 +180,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/hikari-3.png">
+                    <img src="../assets/img/ehon/hikari-3.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -245,7 +245,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/hikari-4.png">
+                    <img src="../assets/img/ehon/hikari-4.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -362,7 +362,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/hikari-5.png">
+                    <img src="../assets/img/ehon/hikari-5.png" width="200px">
                     </v-col>
                 </template>
             </v-row>

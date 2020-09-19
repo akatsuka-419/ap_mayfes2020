@@ -58,7 +58,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/cpu-1.png">
+                    <img src="../assets/img/ehon/cpu-1.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -121,7 +121,7 @@
                         align="center"
                         class="img-div"
                     >
-                    <img src="../assets/img/ehon/cpu-2.png">
+                    <img src="../assets/img/ehon/cpu-2.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
@@ -187,7 +187,7 @@
                         class="img-div"
                         align-self="center"
                     >
-                    <img src="../assets/img/ehon/cpu-3.png">
+                    <img src="../assets/img/ehon/cpu-3.png" width="200px">
                     </v-col>
                 </template>
             </v-row>
