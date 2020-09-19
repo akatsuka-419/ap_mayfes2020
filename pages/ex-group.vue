@@ -115,7 +115,7 @@
                 <nuxt-link :to="{ name: 'ai', params: {id: id} }">
                 <div class="door-box" ontouchstart="">
                   <img src="../assets/img/door/door-ai.png">
-                  <img src="../static/img/door/door-open-ai.png" class="active">
+                  <img src="../assets/img/door/door-open-ai.png" class="active">
                 </div>
                 </nuxt-link>
                 </v-col>

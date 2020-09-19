@@ -685,7 +685,7 @@ a.btn-flat-border-blue:active{
 
 
 .card{
-  background-image: url("../static/mayfes-back.png");
+  background-image: url("../assets/img/back/mayfes-back.png");
   background-size: cover;
 }
 
