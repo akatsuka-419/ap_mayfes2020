@@ -55,7 +55,7 @@
 
       <template>
         <v-card
-          class="px-12 my-6 card"
+          class="my-6 card"
         >
         <v-card-title class="font-weight-bold">五月祭総選挙 -May Fes. Awards- へ投票お願いします</v-card-title>
         <v-card-text class="body-1 text--primary">

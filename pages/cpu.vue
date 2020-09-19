@@ -105,6 +105,7 @@
                         md="8"
                         align="center"
                         class="sentence-div pa-0"
+                        align-self="center"
                     >
                     <p class="sentence mb-0">  
                         その時です, 突然奥から三角の論理素子が出てきたかと思うと, 舞台上の「上演中」の札の横に「準備中」の札も出てきました. <br>

@@ -59,7 +59,7 @@
                     <p class="subtitle-1">顔の動きに連動してキャラを操作するゲームを作りました. リンク先のGitHubページからダウンロードが可能です.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="機械学習班_1_顔追跡ゲーム.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/機械学習班_1_顔追跡ゲーム.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔追跡ゲーム.png" ontouchstart="" class="img_rink mr-4">
                     </a>
                     
