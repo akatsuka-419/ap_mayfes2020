@@ -19,7 +19,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                        
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -73,7 +73,7 @@
                     <p class="subtitle-1">論理素子について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="CPU班_1_論理素子.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/CPU班_1_論理素子.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_1_論理素子.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -103,7 +103,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                        
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -138,7 +138,7 @@
                     <p class="subtitle-1">論理回路を用いてスイッチングを行う方法について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="CPU班_2_スイッチング.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/CPU班_2_スイッチング.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_2_スイッチング.png" ontouchstart="" class="img_rink">
                     </a>
 
@@ -164,7 +164,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                       
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -204,7 +204,7 @@
                     <p class="subtitle-1">CPUの動作について解説しています.</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="CPU班_3_CPU.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/CPU班_3_CPU.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/CPU班_3_CPU.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -241,7 +241,7 @@
                 <template>
                     <v-col
                         cols="12"
-                        align="center"
+                     
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -359,7 +359,7 @@ a.btn-flat-border:active{
 
 .sentence{
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 .img-div{

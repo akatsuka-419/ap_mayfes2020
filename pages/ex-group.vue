@@ -18,7 +18,7 @@
                         class="sentence-div"
                         align-self="center"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                         メイプちゃんの家族は代々有名な研究者ぞろい．ご先祖様にはノーベル物理学者もいるとか，いないとか．でもメイプちゃんは勉強より外で遊ぶ方が好き．今もどうやら学校の宿題に飽きてしまったようです．
                     </p>
 
@@ -39,7 +39,7 @@
                         class="sentence-div"
                         align-self="center"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                      そこへお姉ちゃんがやってきます．<br>
                     「宿題は終わった？」<br>
                     「全然．数学とか物理なんていや！つまんないわ！」<br>
@@ -64,7 +64,7 @@
                         align="center"
                         class="sentence-div"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                     「うげ〜」<br>
                     にんじんが苦手なメイプちゃんはちっとも嬉しくありません．<br>
                     「そんなに嫌な顔しないで，身体に良いしきっと役に立つわよ」<br>
@@ -208,7 +208,7 @@
                         class="sentence-div"
                         align-self="center"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                         不思議な応物の国を思う存分楽しんだめいぷちゃん．<br>
                         思い返せばいろいろなことがありました．<br>
                         「数学と物理のこと，少しだけ楽しく思えたかも」<br>
@@ -231,7 +231,7 @@
                         class="sentence-div"
                         align-self="center"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                        「そうだわ，ウサギ！」
                         メイプちゃんは初心に戻りました．<br>
                         「でもあんなに足が速いウサギ，どうやって捕まえたら良いのかしら」<br>
@@ -258,7 +258,7 @@
                         align="center"
                         class="sentence-div"
                     >
-                    <p class="sentence mb-0">  
+                    <p class="sentence-ex mb-0">  
                      どこからともなく現れたウサギをメイプちゃんはえいっと捕まえます．
                     「やったわ！ねえウサギさん，そんなに急いでどこへ，，ってあれ？？」<br>
                     ウサギを捕まえて喜ぶのも束の間，メイプちゃんの目の前には<br>
@@ -371,8 +371,9 @@
     display: inline-block;
 }
 
-.sentence{
+.sentence-ex{
     font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 0.9em;
 }
 
 .img-div{

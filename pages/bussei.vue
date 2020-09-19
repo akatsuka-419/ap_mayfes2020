@@ -12,7 +12,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                       
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -53,10 +53,10 @@
                 >
                     <p class="subtitle-1">超伝導体物質を液体窒素で冷やし超伝導状態にすることで，磁石で作られたレールの上を浮上しながら走らせることができます．これは超伝導特有の性質であるマイスナー効果とピン止め効果による現象です．現在開発中のリニアモーターカーと原理は違うのですが，簡易なモデルとしてお楽しみください．</p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-                    <a href="物性班_1_超伝導リニア.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/物性班_1_超伝導リニア.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_1_超伝導リニア.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="物性班_1_超伝導.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/物性班_1_超伝導.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_1_超伝導.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -80,7 +80,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                   
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -123,10 +123,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="物性班_2_常磁性.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/物性班_2_常磁性.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_2_常磁性.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="物性班_2_磁性.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/物性班_2_磁性.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/物性班_2_磁性.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -150,7 +150,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                     
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -277,7 +277,7 @@ a.btn-flat-border:active{
 
 .sentence{
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 .img-div{

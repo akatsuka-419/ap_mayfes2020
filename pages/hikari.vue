@@ -21,7 +21,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                     
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -57,7 +57,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="光班_1_無限回廊.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_1_無限回廊.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_1_無限回廊.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -81,7 +81,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                       
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -128,10 +128,10 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="光班_2_セロハンお絵かき.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_2_セロハンお絵かき.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_2_セロハンお絵かき.png" ontouchstart="" class="img_rink mr-4">
                     </a>
-                    <a href="光班_2_理論.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_2_理論.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_2_理論.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -159,7 +159,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                    
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -198,7 +198,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="光班_3_CD分光.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_3_CD分光.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_3_CD分光.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -224,7 +224,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                 
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -263,7 +263,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="光班_4_レーザー通信.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_4_レーザー通信.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_4_レーザー通信.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -291,7 +291,7 @@
                 <template>
                     <v-col
                         cols="12"
-                        align="center"
+              
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -320,7 +320,7 @@
                     </p>
                     <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
 
-                    <a href="光班_5_peppers_ghost.pdf" target="_blank" rel="noopener">
+                    <a href="../assets/PDF/光班_5_peppers_ghost.pdf" target="_blank" rel="noopener">
                     <img src="../assets/img/PDF_tmb/光班_5_peppers_ghost.png" ontouchstart="" class="img_rink">
                     </a>
                 </v-col>
@@ -345,7 +345,7 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
+                     
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -468,7 +468,7 @@ a.btn-flat-border:active{
 
 .sentence{
     font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 .img-div{
