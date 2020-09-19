@@ -26,10 +26,14 @@
             sm="6"
             align="center"
           >
-            <img src="@/assets/img/door/door_close_jikken.png">
+          <nuxt-link :to="{ name: 'ex-group', params: {id: id} }">
+            <div class="door-box" ontouchstart="">
+            <img src="@/assets/img/door/door_open1_jikken.png">
+            <img src="@/assets/img/door/door_open2_jikken.png" class="active">
+            </div>
+          </nuxt-link>
             <p class="text-door">計数工学科・物理工学科の学生達が、それぞれの興味関心に応じて制作した実験を展示しています。</p>
             <p class="text-door">実験にはそれぞれ物語がそえられており、読み進めることで不思議な世界をめぐりながら実験を楽しむことができます。</p>
-            <p class="text-door">（URLは当日公開します。）</p>
           </v-col>
 
           <v-col
@@ -39,8 +43,8 @@
           >
             <nuxt-link :to="{ name: 'live', params: {id: id} }">
               <div class="door-box" ontouchstart="">
-                <img src="@/assets/img/door/door_close_live.png">
-                <img src="@/assets/img/door/door_close2_live.png" class="active">
+                <img src="@/assets/img/door/door_open1_live.png">
+                <img src="@/assets/img/door/door_open2_live.png" class="active">
               </div>
             </nuxt-link>
             <p class="text-door">実験や講演企画を五月祭当日に生配信します。</p>
@@ -48,6 +52,22 @@
           </v-col>
         </template>
       </v-row>
+
+      <template>
+        <v-card
+          class="px-12 my-6 card"
+        >
+        <v-card-title class="font-weight-bold">五月祭総選挙 -May Fes. Awards- へ投票お願いします</v-card-title>
+        <v-card-text class="body-1 text--primary">
+          - 投票方法 -<br>
+          五月祭公式 HP の投票ページ (<a href="https://gogatsusai.jp/93/visitor/awards?id=352" class="touhyou">https://gogatsusai.jp/93/visitor/awards?id=352</a>) へアクセス<br>
+          工学博覧会に投票<br>
+          <br>
+          企画 ID：352
+        </v-card-text>
+    
+        </v-card>
+      </template>
 
       <v-divider class="my-6"></v-divider>
 
@@ -129,6 +149,18 @@
 .door-box:hover .active {
   opacity: 1;
 }
+
+.card{
+  background-image: url("../assets/img/back/mayfes-back.png");
+  background-size: cover;
+}
+
+.touhyou:link,
+.touhyou:active,
+.touhyou:visited,
+.touhyou:hover{
+    color: white;
+}
 </style>
 
 <script>
@@ -187,6 +219,10 @@
         {
           date: '2020-9-18',
           text: 'ライブ配信を更新しました。'
+        },
+        {
+          date: '2020-9-20',
+          text: '展示を更新しました。'
         }
       ]
     })
