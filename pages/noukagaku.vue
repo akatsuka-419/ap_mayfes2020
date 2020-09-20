@@ -19,7 +19,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -96,7 +95,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -167,7 +165,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div pa-0"
                         align-self="center"
                     >
@@ -233,7 +230,6 @@
                     <v-col
                         cols="12"
                         md="8"
-                        align="center"
                         class="sentence-div pa-0"
                         align-self="center"
                     >
