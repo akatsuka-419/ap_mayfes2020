@@ -8,7 +8,7 @@
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#piano')">- <span class="underline">Sparta Piano</span></p>
             <p class="contents font-weight-bold pb-4" @click="$vuetify.goTo('#pm')">- <span class="underline">プロジェクションマッピング</span></p>
 
-            <a href="https://youtu.be/HQftPTCIqUo" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
+            <a href="https://youtu.be/95lwxVRp7Cc" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
             <div class="live-date mt-2 ml-4">
                 <p class="live-date-letter font-weight-bold">20日 13:30-14:00</p>
                 <p class="live-date-letter font-weight-bold">21日 14:30-15:00</p>

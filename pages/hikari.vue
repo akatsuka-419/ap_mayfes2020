@@ -10,7 +10,7 @@
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#laser')">- <span class="underline">レーザー通信</span></p>
             <p class="contents font-weight-bold pb-4" @click="$vuetify.goTo('#ghost')">- <span class="underline">Pepper’s Ghost</span></p>
             
-            <a href="https://youtu.be/HQftPTCIqUo" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
+            <a href="https://youtu.be/95lwxVRp7Cc" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
             <div class="live-date mt-2 ml-4">
                 <p class="live-date-letter font-weight-bold">20日 10:30-11:00</p>
                 <p class="live-date-letter font-weight-bold">21日 15:30-16:00</p>

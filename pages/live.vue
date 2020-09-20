@@ -4,10 +4,10 @@
         <v-container class="py-0"> 
             <h2 class="my-8 exhibition">ライブ企画</h2>
 
-            <a href="https://youtu.be/HQftPTCIqUo" class="btn-flat-border mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="">YouTubeライブへ</a>
+            <a href="https://youtu.be/95lwxVRp7Cc" class="btn-flat-border mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="">YouTubeライブへ</a>
             <p class="ml-6 explanation">
               実験や座談会を生配信します！<br>
-              配信の不具合により万が一YoutubeLiveが切断された場合は、こちらのリンク( <a href="https://youtu.be/NOEu1dXrFSA">https://youtu.be/NOEu1dXrFSA</a> )から配信いたします。
+              配信の不具合により万が一YoutubeLiveが切断された場合は、こちらのリンク( <a href="https://youtu.be/WSAdxdST47Q">https://youtu.be/WSAdxdST47Q</a> )から配信いたします。
             </p>
 
             <a href="https://discord.gg/HxZcdX8" class="btn-flat-border-blue mr-8 mb-4 ml-4 font-weight-bold" ontouchstart="">Discordへ</a>
@@ -1004,8 +1004,8 @@ export default {
           },
           {
             time: '17:15',
-            event: '',
-            detail: '',
+            event: '懇親会',
+            detail: '@Discord',
             isLive: false,
             isInterview: false,
             isSymposium: false

@@ -8,7 +8,7 @@
             <p class="contents font-weight-bold" @click="$vuetify.goTo('#shounou')">- <span class="underline">小脳実験</span></p>
             <p class="contents font-weight-bold pb-4" @click="$vuetify.goTo('#jiyu')">- <span class="underline">自由エネルギー原理</span></p>
             
-            <a href="https://youtu.be/HQftPTCIqUo" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
+            <a href="https://youtu.be/95lwxVRp7Cc" class="btn-flat-border mr-8 mb-4 ml-4" ontouchstart=""><span class="font-weight-bold">ライブ実験</span>(@YouTube Live)</a>
             <div class="live-date mt-2 ml-4">
                 <p class="live-date-letter font-weight-bold">20日 12:30-13:00</p>
                 <p class="live-date-letter font-weight-bold">21日 11:30-12:00</p>
