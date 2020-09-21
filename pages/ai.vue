@@ -68,7 +68,7 @@
                     <img src="../assets/img/PDF_tmb/機械学習班_1_顔のトラッキング.png" ontouchstart="" class="img_rink">
                     </a>
 
-                    <a href="https://github.com/kougaku-hakurankai-vision/for_public" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">顔追跡ゲームをダウンロード</a>
+                    
                 </v-col>
 
                 <v-col
@@ -76,9 +76,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/Pzd8r3NxC8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
 
                 </v-col>
                 </template>
@@ -139,7 +137,7 @@
                     <img src="../assets/img/PDF_tmb/機械学習班_2_ブルータスAI.png" ontouchstart="" class="img_rink">
                     </a>
 
-                    <a href="https://brutus-mayfes.herokuapp.com" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">ブルータスAIと対戦する</a>
+                    
                 </v-col>
 
                 <v-col
@@ -147,9 +145,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/ZGVpPtTp63k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
 
                 </v-col>
                 </template>

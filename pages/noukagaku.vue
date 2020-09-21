@@ -206,7 +206,7 @@
                     <img src="../assets/img/PDF_tmb/脳科学班_3_FEP理論.png" ontouchstart="" class="img_rink">
                     </a>
 
-                    <a href="http://maze.fep-demo.work/" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">ぐらぐら迷路ゲームをプレイ</a>
+                    
                 </v-col>
 
                 <v-col

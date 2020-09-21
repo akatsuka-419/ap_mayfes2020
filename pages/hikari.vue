@@ -55,11 +55,7 @@
                     <p class="subtitle-1">
                         鏡は光を反射します．鏡が一枚のとき，鏡に向かっていった光は反射されて遠くに飛んでいきます．では，2枚の鏡を向かい合わせてみるとどうなるでしょうか？
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1xkYvK21PPjbEqR7i0Ajiqx_hyPe47rW_/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_1_無限回廊.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -67,9 +63,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                <iframe src="https://www.youtube.com/embed/Q5WFwB4kIik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -126,14 +120,7 @@
                     <p class="subtitle-1">
                         アクリル板にただセロハンテープを貼っても，色がついて見えたりはしませんよね．しかし，このアクリル版を，偏光板という特殊なシートで挟んであげると，不思議なことに色づいて見えます．この現象の鍵を握っているのが，光の「偏光」です．
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1FaDPH0Z0K-B10WrzhA-U-9rVhe5Zawxn/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_2_セロハンお絵かき.png" ontouchstart="" class="img_rink mr-4">
-                    </a>
-                    <a href="https://drive.google.com/file/d/16xqbcV65RDDBwS23MfOl4ulDAUUtJb0l/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_2_理論.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -141,9 +128,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/vJjkFpbms60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -196,11 +181,7 @@
                     <p class="subtitle-1">
                         CDを用いると，光を色ごとに分解することができます．このように光を色ごとに分解することを「分光」といいます．
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1wzW3VTJ0lfu4Of8W3siIu9HCV3-kXZvz/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_3_CD分光.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -208,9 +189,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                <iframe src="https://www.youtube.com/embed/9-CSM0ZDl1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -261,11 +240,7 @@
                     <p class="subtitle-1">
                         「光」で「音」を伝えます
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1jluyn66tX_SH3W4PkFQuHgyCJBBhZHBk/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_4_レーザー通信.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -273,9 +248,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/reK-Ddv668U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -318,11 +291,7 @@
                     <p class="subtitle-1">
                         ディズニーランドのホーンテッドマンションでも用いられている，Pepper’s Ghostという擬似ホログラフィについて解説しています．
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1-oGKTfj081QNupX-gfR_9y9f6k0y5L2n/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/光班_5_peppers_ghost.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col

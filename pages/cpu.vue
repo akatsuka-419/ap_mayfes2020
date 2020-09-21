@@ -71,17 +71,7 @@
                     sm="6"
                 >
                     <p class="subtitle-1">論理素子について解説しています.</p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/17wJ2ali4LWogi11AJAzFo37CRPvoLh0X/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/CPU班_1_論理素子.png" ontouchstart="" class="img_rink">
-                    </a>
-
-                    <a href="https://kazuhikoarase.github.io/simcirjs/#-MGCPN_6xtXRusOo9Ibk" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">2進数と10進数の対応</a>
-                    <a href="https://kazuhikoarase.github.io/simcirjs/#-MGCP-qz7OpjPVFm_-7V" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">AND素子の振る舞い</a>
-                    <a href="http://www.cs.shinshu-u.ac.jp/Lecture/LogicCirc/chap7/chap7.html" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">様々な素子の振る舞い</a>
-                    <a href="https://kazuhikoarase.github.io/simcirjs/#-MGCOp6xoKtivc4A5J8Q" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">DFF(Delay flip-flop)</a>
-                    <a href="https://kazuhikoarase.github.io/simcirjs/#-MGCPaJjul4wkugYyu6P" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">一桁の足し算の回路</a>
+                    
                 </v-col>
 
                 <v-col
@@ -89,9 +79,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                <iframe src="https://www.youtube.com/embed/9mcVDrscsMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -136,13 +124,9 @@
                     sm="6"
                 >
                     <p class="subtitle-1">論理回路を用いてスイッチングを行う方法について解説しています.</p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
+                    
 
-                    <a href="https://drive.google.com/file/d/1PfX8dNk7yOggW6Av94TmcGj6eoeGWkr1/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/CPU班_2_スイッチング.png" ontouchstart="" class="img_rink">
-                    </a>
-
-                    <a href="https://kazuhikoarase.github.io/simcirjs/#-MGCPifvxg7LhJoNXvVp" class="url font-weight-bold mt-6" target="_blank" rel="noopener" ontouchstart="">論理回路で実現したスイッチ</a>
+                    
                 </v-col>
 
                 <v-col
@@ -150,9 +134,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/2_T-cN3qHBs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -202,11 +184,7 @@
                     sm="6"
                 >
                     <p class="subtitle-1">CPUの動作について解説しています.</p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1MlCEYs7G7T1HxhV4d5C-xyJ_LQ1klLTD/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/CPU班_3_CPU.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -214,9 +192,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                <iframe src="https://www.youtube.com/embed/Qxpj5RU3dq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
