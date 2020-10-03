@@ -57,17 +57,7 @@
                     sm="6"
                 >
                     <p class="subtitle-1">顔の動きに連動してキャラを操作するゲームを作りました. リンク先のGitHubページからダウンロードが可能です.</p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
                     
-                    <a href="https://drive.google.com/file/d/1nywJo5PktYJEZDPbsd_rdmqiS19HO0nQ/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/機械学習班_1_顔追跡ゲーム.png" ontouchstart="" class="img_rink mr-4">
-                    </a>
-                    
-                    <a href="https://drive.google.com/file/d/1nfcnQs-8OBQ9Kvm-Qi6WgU0GTCstnWE4/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/機械学習班_1_顔のトラッキング.png" ontouchstart="" class="img_rink">
-                    </a>
-
                     
                 </v-col>
 
@@ -131,12 +121,7 @@
                     sm="6"
                 >
                     <p class="fsubtitle-1">ブルータスというボードゲームを, AIに学習させました．あなたはこのAIに勝てますか？</p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1HEQcLFDcaoNfb1PQLEtMiYnWcXAzLdbq/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/機械学習班_2_ブルータスAI.png" ontouchstart="" class="img_rink">
-                    </a>
-
+                    
                     
                 </v-col>
 

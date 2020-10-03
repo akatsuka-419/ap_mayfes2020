@@ -66,14 +66,7 @@
                     <p class="subtitle-1">
                         統合情報理論（IIT）という，「意識」を数学的に扱った理論があります．IITによって，人間の脳を始めとするシステムがどのぐらい意識を持っているかを予想することができます．この展示では，IITにおいてそのシステムがどのぐらい意識を持っているかを表す統合情報量という量を計算します．
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/17spKU8bDy__GLfBCdHqHwD9JLgC0eUK4/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_1_IIT実験.png" ontouchstart="" class="img_rink mr-4">
-                    </a>
-                    <a href="https://drive.google.com/file/d/10T16YyfsQkKJtedGDNIy1DqNVy-DTq6B/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_1_IIT理論.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -81,9 +74,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/dSUhdMlYfc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
@@ -135,14 +126,7 @@
                     <p class="subtitle-1">
                         この実験では, 小脳疾患の有無を調べる試験である指鼻試験を, 小脳の構造と等価なニューラルネットワーク(LSM)と2-link-manipulatorのシュミュレーションを用いて実装することを目指しました．
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1SAArgtrvkDTNXLwPJ6fmGLmxMmwKcmA5/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_2_小脳実験.png" ontouchstart="" class="img_rink mr-4">
-                    </a>
-                    <a href="https://drive.google.com/file/d/1HEhDUQo1y1khhEfbCDI-HrFCMXd3tY6m/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_2_小脳理論.png" ontouchstart="" class="img_rink">
-                    </a>
+                    
                 </v-col>
 
                 <v-col
@@ -150,9 +134,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/ulZXllorWa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+               
                 </v-col>
                 </template>
             </v-row>
@@ -197,15 +179,7 @@
                     <p class="subtitle-1">
                         自由エネルギー原理という，認識と行動の統一原理に従って行動するCPUと「ぐらぐら迷路ゲーム」で対戦してみませんか？
                     </p>
-                    <p class="mt-6 subtitle-2">詳しい解説はこちら</p>
-
-                    <a href="https://drive.google.com/file/d/1d1syr-XWC7aUAvW0s1li8x09Maql8x4e/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_3_FEP実験.png" ontouchstart="" class="img_rink mr-4">
-                    </a>
-                    <a href="https://drive.google.com/file/d/1dfTpzQ94-EaKd3WhGDowUd8pwsdvbRCI/view?usp=sharing" target="_blank" rel="noopener">
-                    <img src="../assets/img/PDF_tmb/脳科学班_3_FEP理論.png" ontouchstart="" class="img_rink">
-                    </a>
-
+                    
                     
                 </v-col>
 
@@ -214,9 +188,7 @@
                     sm="6"
                     align="center"
                 >
-                <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/38Ro8etiAPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                
                 </v-col>
                 </template>
             </v-row>
